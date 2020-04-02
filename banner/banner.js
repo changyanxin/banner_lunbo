@@ -108,5 +108,5 @@ $(function(){
   
     timer = setInterval(next, time);
   
-    return $box;
+    
 }());
